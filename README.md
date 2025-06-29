@@ -1,8 +1,10 @@
 # Homework - Schedule
+![programming-background-concept (2)](https://github.com/user-attachments/assets/df086fa1-ab13-4a1a-8d0a-241abdc33802)
 [Homework Submission Form](https://forms.gle/mhoucXJdQRj1FyFW7)
 
 ## Submission
-Please fill out the form below to submit your homework:
+Please fill out the form below to
+ submit your homework:
 
 [Homework Submission Form]([https://docs.google.com/forms/d/e/1FAIpQLSczjC5_G_P1NIU0-lmfCKZ1_7sAaxFZ9TQ0cFx3nPYF8MfuMw/viewform](https://forms.gle/mhoucXJdQRj1FyFW7))
 
