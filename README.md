@@ -1,5 +1,5 @@
-# Homework-schedule
-![image]([./homework-img.jpg](https://miro.medium.com/v2/resize:fit:1400/0*vF1halv_DIaNyDwe))
+# Homework - Schedule
+![./homework-img.jpg](https://miro.medium.com/v2/resize:fit:1400/0*vF1halv_DIaNyDwe)
 
 ## Submission
 Please fill out the form below to submit your homework:
